@@ -1,0 +1,28 @@
+{
+  "name": "gpt4scrape",
+  "version": "1.0.0",
+  "description": "Unofficial scrape for gpt-4",
+  "main": "index.js",
+  "scripts": {
+    "postinstall": "npx playwright install",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "axios": "latest",
+    "playwright": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SACHIBOT/gpt4.git"
+  },
+  "keywords": [
+    "gpt4",
+    "sachibot"
+  ],
+  "author": "SACHIBOT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SACHIBOT/gpt4scrape/issues"
+  },
+  "homepage": "https://github.com/SACHIBOT/gpt4#readme"
+}
