@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SACHIBOT/gpt4.git"
+    "url": "git+https://github.com/SACHIBOT/gpt4scrape.git"
   },
   "keywords": [
     "gpt4",
@@ -24,5 +24,5 @@
   "bugs": {
     "url": "https://github.com/SACHIBOT/gpt4scrape/issues"
   },
-  "homepage": "https://github.com/SACHIBOT/gpt4#readme"
+  "homepage": "https://github.com/SACHIBOT/gpt4scrape#readme"
 }
