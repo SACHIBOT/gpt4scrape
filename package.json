@@ -1,6 +1,6 @@
 {
   "name": "gpt4scrape",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Unofficial scrape for gpt-4",
   "main": "index.js",
   "scripts": {
